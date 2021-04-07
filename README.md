@@ -1,2 +1,2 @@
 # Public-PEA-Garden
-Code files for DIY hydroponic garden that rotates
+Code  and STL files for DIY hydroponic garden that rotates
